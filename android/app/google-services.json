@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934000879271",
+    "project_id": "earth-36cd1",
+    "storage_bucket": "earth-36cd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934000879271:android:d5eb288f8e1d9677771d82",
+        "android_client_info": {
+          "package_name": "com.example.earthquake_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2RUNbbFXtPf9HKekkynaX8o-yResMuZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
